@@ -1,0 +1,20 @@
+{
+  "name": "omnistack11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joabsena/be-the-hero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joabsena/be-the-hero/issues"
+  },
+  "homepage": "https://github.com/joabsena/be-the-hero#readme"
+}
